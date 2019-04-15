@@ -2,7 +2,7 @@
 
 # Object Oriented Using C
  This program illustrates object oriented concepts using C. 
- It demonstrates Inheritnace and POlymorphism in C using table of function pointers as Vtables
+ It demonstrates Inheritance and Polymorphism in C using table of function pointers as Vtable.
 
 
 ## Running Instructions
